@@ -24,8 +24,8 @@ A proposta é demonstrar domínio de conceitos fundamentais de Python aplicados 
 - **[q] Sair** — encerra o programa
 
 > **Regras de negócio (principais):**  
-> • Limite de saques diários: **3**  
-> • Limite por saque: **R$ 500,00**  
+> • Limite de saques diários: **2**  
+> • Limite por saque: **R$ 1.000,00**  
 > • Agência padrão: **0001**
 
 ---
